@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D9FF&center=true&width=600&height=100&lines=👋+Hi,+I'm+Sabahat+Qadeer;Full+Stack+Developer+🚀;MERN+Specialist+💻;React+Native+Expert+📱;Building+Tomorrow's+Apps" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqKSJqv/giphy.gif" width="100" alt="Developer" style="border-radius: 50%; animation: bounce 2s infinite;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D9FF&center=true&width=600&height=100&lines=👋+Hi,+I'm+Sabahat+Qadeer;Full+Stack+Developer+🚀;MERN+Specialist+💻;React+Native+Expert+📱;Building+Amazing+Apps" alt="Typing SVG" />
 </div>
 
 ---
@@ -24,22 +20,19 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sabahatqadeer682&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sabahatqadeer682?style=flat-square&color=00D9FF&logo=github" alt="Followers" />
 </div>
 
 ---
 
 ## 💫 About Me
 
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" alt="coding" style="border-radius: 20px; animation: float 3s ease-in-out infinite;"/>
+Full Stack Developer specializing in **MERN Stack** and **React Native**. Crafting scalable, user-focused applications with clean code and modern design principles. Passionate about building high-performance web and mobile solutions.
 
-Full Stack Developer crafting **scalable, beautiful applications** with modern technologies. Specialized in **MERN Stack** and **React Native** for web and mobile platforms.
-
-**🎯 What I Do:**
+**Core Focus:**
 - 🏗️ Full-Stack Web Development
-- 📱 Cross-Platform Mobile Apps
+- 📱 Cross-Platform Mobile Apps  
 - 🎨 Responsive UI/UX Design
-- 🔐 Secure Authentication
+- 🔐 Secure Authentication Systems
 - ⚡ Real-Time Applications
 
 ---
@@ -121,46 +114,21 @@ Full Stack Developer crafting **scalable, beautiful applications** with modern t
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center" style="animation: zoomIn 1s ease;">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabahatqadeer682&show_icons=true&theme=midnight-blue&bg_color=0d1117&text_color=00D9FF&title_color=00D9FF&border_color=00D9FF&card_width=400)](https://github.com/sabahatqadeer682)
-
-</div>
-
-<div align="center" style="animation: zoomIn 1.2s ease;">
-
-[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabahatqadeer682&theme=dark&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://github.com/sabahatqadeer682)
-
-</div>
-
----
-
-## 💡 Quick Stats
-
-<div align="center">
-
-| 🎯 | 💻 | 📱 | 🔧 |
-|:---:|:---:|:---:|:---:|
-| **Projects** | **Languages** | **Apps** | **Stack** |
-| 5+ | 6+ | 3+ | MERN |
-
-</div>
-
----
-
-## 🎨 Design Philosophy
-
-✨ **Performance** • 🎯 **User-Centric** • 🔒 **Secure** • 📱 **Responsive** • ⚡ **Scalable**
-
----
-
-## 💼 Open For
+## 💼 What I Offer
 
 <div align="center" style="animation: pulse 2s infinite;">
 
-### 🚀 Internships • 💼 Full-Time • 🎯 Freelance • 🤝 Collaborations
+**Problem Solving** • **Full-Stack Development** • **Clean Code** • **Scalable Solutions** • **Team Collaboration**
+
+</div>
+
+---
+
+## 🎯 Open For
+
+<div align="center" style="animation: fadeIn 2s ease;">
+
+**🚀 Internships** • **💼 Full-Time Positions** • **🎯 Freelance Projects** • **🤝 Collaborations**
 
 </div>
 
@@ -168,7 +136,7 @@ Full Stack Developer crafting **scalable, beautiful applications** with modern t
 
 <div align="center">
 
-### 📫 Let's Connect!
+### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabahatqadeer)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabahatqadeerbhati@gmail.com)
@@ -177,8 +145,8 @@ Full Stack Developer crafting **scalable, beautiful applications** with modern t
 
 <br/>
 
-<div align="center" style="animation: slideInUp 1s ease;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&width=500&height=50&lines=🚀+Let's+Build+Something+Amazing;Always+Learning,+Always+Growing" alt="Footer" />
+<div align="center" style="animation: slideInUp 1.5s ease;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&width=500&height=50&lines=Let's+Build+Something+Amazing+🚀;Always+Learning,+Always+Growing" alt="Footer" />
 </div>
 
 ---
@@ -221,15 +189,6 @@ Full Stack Developer crafting **scalable, beautiful applications** with modern t
     }
   }
 
-  @keyframes float {
-    0%, 100% {
-      transform: translateY(0px);
-    }
-    50% {
-      transform: translateY(-15px);
-    }
-  }
-
   @keyframes pulse {
     0%, 100% {
       opacity: 1;
@@ -239,32 +198,12 @@ Full Stack Developer crafting **scalable, beautiful applications** with modern t
     }
   }
 
-  @keyframes bounce {
-    0%, 100% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
-  }
-
   @keyframes fadeIn {
     from {
       opacity: 0;
     }
     to {
       opacity: 1;
-    }
-  }
-
-  @keyframes zoomIn {
-    from {
-      opacity: 0;
-      transform: scale(0.9);
-    }
-    to {
-      opacity: 1;
-      transform: scale(1);
     }
   }
 
